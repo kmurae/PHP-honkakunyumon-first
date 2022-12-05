@@ -1,2 +1,4 @@
 # PHP-honkakunyumon-first
 PHP本格入門［上］ 写経用リポジトリ
+
+[PHP本格入門［上］　～プログラミングとオブジェクト指向の基礎からデータベース連携まで](https://www.amazon.co.jp/PHP%E6%9C%AC%E6%A0%BC%E5%85%A5%E9%96%80%EF%BC%BB%E4%B8%8A%EF%BC%BD-%EF%BD%9E%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%A8%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%81%AE%E5%9F%BA%E7%A4%8E%E3%81%8B%E3%82%89%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E9%80%A3%E6%90%BA%E3%81%BE%E3%81%A7-%E5%A4%A7%E5%AE%B6-%E6%AD%A3%E7%99%BB-ebook/dp/B08DXRK18C/ref=d_reads_cwrtbar_sccl_1_1/356-7625264-6798625?pd_rd_w=996eX&content-id=amzn1.sym.337d2f80-9540-40ce-bfd5-1d1e89aa413b&pf_rd_p=337d2f80-9540-40ce-bfd5-1d1e89aa413b&pf_rd_r=EVPZ5ZDCWC3XTY1M8P9E&pd_rd_wg=YnFb9&pd_rd_r=e4611070-e746-468e-bccf-4caa80740562&pd_rd_i=B08DXRK18C&psc=1)
