@@ -8,7 +8,7 @@ class Task
   private $priority;
   private $progress;
 
-  public function __construct(string $name, int $priority, int $progress)
+  public function __construct(string $name, string $priority, string $progress)
   {
     $this->name = $name;
     $this->priority = $priority;
@@ -35,12 +35,12 @@ class Task
     $this->name = $name;
   }
 
-  public function setPriority(int $priority)
+  public function setPriority(string $priority)
   {
     $this->priority = $priority;
   }
 
-  public function setProgress(int $progress)
+  public function setProgress(string $progress)
   {
     $this->progress = $progress;
   }
